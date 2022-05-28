@@ -3,18 +3,16 @@ Ejercicios Ciclo Superior Desarollo de aplicaciones multiplataforma
 
 ## 2ºDAM
 
-### M3, M7 i M9
-- M9: PROGRAMACIÓ DE SERVEIS I PROCESSOS
-  -   amazon api rest & android servlet
-  -   formulario-spring
-  -   biblioteca-jee
-  -   tres en raya - sockets
-  -   cifrados
-    - AES
-    - Fuerza bruta
-    - Transposición
-    - Cesar 
-    - 
+### M9 Programació de servies i processos
+-   amazon api rest & android servlet
+-   formulario-spring
+-   biblioteca-jee
+-   tres en raya - sockets
+-   cifrados
+  - AES
+  - Fuerza bruta
+  - Transposición
+  - Cesar 
 ### M6: Accés a dades (Branch m6-acces-a-dades)
   - UF1: Persistència en fitxers
     - Activitat 1.- Gestió de fitxers amb Java
