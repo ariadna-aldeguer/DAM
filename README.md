@@ -39,3 +39,22 @@ Ejercicios Ciclo Superior Desarollo de aplicaciones multiplataforma
     - Activitat 2.- Accés a Bases de Dades des de JavaBean
     - Activitat 4.-Usos JavaBeans
     - Activitat 5.-Usos JavaBeans II (X2)
+
+### M7/M8: Desenvolupament d’interfícies. Programació multimèdia i dispositius mòbils
+- UF1: Desenvolupament d'aplicacions per a dispositius mòbils
+  - Android:
+    -  Aplicació Travel Veli
+    -  Projecte Just Eat (Food)
+    -  Tres en raya - Sockets
+  - Flutter:
+    - First app (gat i gos)
+    - Nasa api 
+    - To do app
+-  UF2: Programació multimèdia.
+  - Android:
+    - Chat
+    - Google Maps
+    - The movie database 
+- UF3: Desenvolupament de jocs per a dispositius mòbils.
+  - Unity
+    - Platform Game
