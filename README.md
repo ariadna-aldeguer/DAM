@@ -1,7 +1,7 @@
 # DAM
 Ejercicios Ciclo Superior Desarollo de aplicaciones multiplataforma
 
-##2ºDAM
+## 2ºDAM
 
 ### M3, M7 i M9
 - M9: PROGRAMACIÓ DE SERVEIS I PROCESSOS
@@ -9,3 +9,8 @@ Ejercicios Ciclo Superior Desarollo de aplicaciones multiplataforma
   -   formulario-spring
   -   biblioteca-jee
   -   tres en raya - sockets
+  -   cifrados
+    - AES
+    - Fuerza bruta
+    - Transposición
+    - Cesar 
