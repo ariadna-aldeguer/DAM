@@ -1,8 +1,0 @@
-A partir del codi adjunt en aquesta tasca, realitzar els següents canvis:
-- Crear un menú on:
-    - Es demane a l'usuari la ruta absoluta del fitxer XML d'entrada a consultar (pas obligatori i inicial).
-    - Es demane a l'usuari la consulta Xpath a realitzar.
-    - Es pregunte a l'usuari si vol seguir fent consultes sobre el mateix fitxer, carregar un altre fitxer o acabar el programa.
-- S'ha de tenir en compte (i informar a l'usuari) que poden haver-hi consultes sense cap resultat.
-- Es deu comprovar també si la consulta Xpath conté les paraules "sum" o "count". Si apareixen aquestes paraules, el resultat de la consulta no serà una llista de nodes, sinó un valor numèric.
-- Sou lliures d'incloure qualsevol millora que cregueu convenient per incrementar l'eficiència de l'aplicació.
