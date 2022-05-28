@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Empleats>
+    <empleat>
+        <id>1</id>
+        <cognom>Fernandez</cognom>
+        <dep>10</dep>
+        <salari>1400.45</salari>
+    </empleat>
+    <empleat>
+        <id>2</id>
+        <cognom>Rodriguez</cognom>
+        <dep>20</dep>
+        <salari>2000.45</salari>
+    </empleat>
+    <empleat>
+        <id>3</id>
+        <cognom>Martinez</cognom>
+        <dep>30</dep>
+        <salari>1300.45</salari>
+    </empleat>
+    <empleat>
+        <id>4</id>
+        <cognom>Ruiz</cognom>
+        <dep>10</dep>
+        <salari>3000.45</salari>
+    </empleat>
+</Empleats>

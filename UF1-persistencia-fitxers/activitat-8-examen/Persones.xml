@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Persones>
+      <persona>
+            <nom>Pepito</nom>
+            <edat>15</edat>
+      </persona>
+      <persona>
+            <nom>Joanna</nom>
+            <edat>18</edat>
+      </persona>
+      <persona>
+            <nom>Renat</nom>
+            <edat>7</edat>
+      </persona>
+      <persona>
+            <nom>Marga</nom>
+            <edat>28</edat>
+      </persona>
+      <persona>
+            <nom>Josep</nom>
+            <edat>17</edat>
+      </persona>
+      <persona>
+            <nom>Anna</nom>
+            <edat>21</edat>
+      </persona>
+      <persona>
+            <nom>Borja</nom>
+            <edat>23</edat>
+      </persona>
+      <persona>
+            <nom>Marieta</nom>
+            <edat>16</edat>
+      </persona>
+      <persona>
+            <nom>Alexandra</nom>
+            <edat>18</edat>
+      </persona>
+      <persona>
+            <nom>Robert</nom>
+            <edat>26</edat>
+      </persona>
+      <persona>
+            <nom>Amanda</nom>
+            <edat>19</edat>
+      </persona>
+</Persones>

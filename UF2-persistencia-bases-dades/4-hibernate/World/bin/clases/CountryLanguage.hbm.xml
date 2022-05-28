@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generated Apr 20, 2022, 6:51:09 PM by Hibernate Tools 5.6.3.Final --><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class catalog="world" name="clases.CountryLanguage" optimistic-lock="none" table="CountryLanguage">
+        <composite-id class="clases.CountryLanguageId" name="id">
+            <key-property name="countryCode" type="string">
+                <column length="3" name="CountryCode"/>
+            </key-property>
+            <key-property name="language" type="string">
+                <column length="30" name="Language"/>
+            </key-property>
+        </composite-id>
+        <property name="isOfficial" type="char">
+            <column length="1" name="IsOfficial" not-null="true"/>
+        </property>
+        <property name="percentage" type="big_decimal">
+            <column name="Percentage" not-null="true" precision="4" scale="1"/>
+        </property>
+    </class>
+</hibernate-mapping>

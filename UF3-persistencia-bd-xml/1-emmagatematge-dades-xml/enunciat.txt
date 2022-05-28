@@ -1,0 +1,6 @@
+A partir del codi adjunt en aquesta tasca, realitzar els següents canvis:
+Que les etiquetes apareguin en minúscula.
+Que s'afegeixi un nou node al mateix nivell de key i value anomenat role.
+Que s'afegeixi un atribut ID als elements item (i tingui un valor diferent en cada un d'ells).
+Que es demanin per pantalla quants elements item es volen a dintre del fitxer.
+Que es demani per pantalla els valors dels elements item.
