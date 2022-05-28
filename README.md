@@ -3,7 +3,7 @@ Ejercicios Ciclo Superior Desarollo de aplicaciones multiplataforma
 
 ## 2ºDAM
 
-### M9 Programació de servies i processos
+### M9 Programació de serveis i processos
 -   amazon api rest & android servlet
 -   formulario-spring
 -   biblioteca-jee
