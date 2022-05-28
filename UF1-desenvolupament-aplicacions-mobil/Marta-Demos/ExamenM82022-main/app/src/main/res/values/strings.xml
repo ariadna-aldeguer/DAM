@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JdA_Films</string>
+    <string name="menu_films">Pel·lícules</string>
+    <string name="menu_add_film">Afegir pel·lícula</string>
+    <string name="menu_settings">Configuració</string>
+    
+    <string name="btnLogin">Login</string>
+    <string name="txtUsername">Usuari</string>
+    <string name="txtPassword">Contrasenya</string>
+
+    <string name="nomPeli">Nom pel·lícula</string>
+    <string name="valoracioPeli">Valoració</string>
+    <string name="categoriaPeli">Categoria</string>
+
+    <string-array name="categories">
+        <item>Aventures</item>
+        <item>Terror</item>
+        <item>Ciència Ficció</item>
+        <item>Comèdia</item>
+    </string-array>
+
+    <string name="idioma">Idioma</string>
+    <string name="removeAll">Elimina totes preferències</string>
+</resources>
