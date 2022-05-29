@@ -1,4 +1,0 @@
-Gestor de puzles d'escacs. Escriviu help per ajuda.
-puzle> Ja existeix. El sobreescrivim?
-fet
-puzle> adèu

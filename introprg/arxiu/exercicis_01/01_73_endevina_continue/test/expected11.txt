@@ -1,8 +1,0 @@
-Nombre?
-Massa petit
-Nombre?
-Només nombres
-Nombre?
-Massa gran
-Nombre?
-Encertat!

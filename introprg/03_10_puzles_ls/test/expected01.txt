@@ -1,3 +1,0 @@
-Gestor de puzles d'escacs. Escriviu help per ajuda.
-puzle> UN_PUZLE
-puzle> adèu

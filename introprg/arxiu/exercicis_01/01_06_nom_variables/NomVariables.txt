@@ -1,9 +1,0 @@
-tallaSabates
-dataAniversari
-nom
-colorEscriptori
-gustLlimona // Quan es boplean, es millor que s'entengui si posem un si davant. Sería millor "agratLlimona"
-lletra - lletraCanço -lletraCançoPreferida  // Millor sense lletres especials com 'ç'
-culturaQueMarca 
-
-// Millor amb anglès 

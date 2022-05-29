@@ -1,8 +1,0 @@
-afegeix
-Roura blanc
-2200
-
-elimina
-Roura blanc
-no
-surt

@@ -1,4 +1,0 @@
-Operand1?
-Operador?
-Operand2?
-L'operador ^ no està disponible

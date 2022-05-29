@@ -1,4 +1,0 @@
-text?
-inici?
-final?
-h

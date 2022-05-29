@@ -1,3 +1,0 @@
-new UN_PUZLE
-no
-quit

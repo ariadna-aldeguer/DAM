@@ -1,2 +1,0 @@
-add UN_PUZLE 6 a T
-quit

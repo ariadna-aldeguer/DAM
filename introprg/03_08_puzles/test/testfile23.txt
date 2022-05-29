@@ -1,2 +1,0 @@
-add UN_PUZLE 3
-quit

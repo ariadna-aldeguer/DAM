@@ -1,2 +1,0 @@
-mv UN_PUZLE a 6 4 2
-quit

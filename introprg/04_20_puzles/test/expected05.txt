@@ -1,2 +1,0 @@
-Gestor de puzles d'escacs. Escriviu help per ajuda.
-puzle> puzle> adèu

@@ -1,2 +1,0 @@
-del UN_PUZLE 3 b
-quit

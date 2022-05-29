@@ -1,6 +1,0 @@
-text?
-inici?
-final?
-h
-o
-l

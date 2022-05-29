@@ -1,2 +1,0 @@
-cp PUZLE1
-quit

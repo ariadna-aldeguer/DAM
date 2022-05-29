@@ -1,3 +1,0 @@
-Gestor de puzles d'escacs. Escriviu help per ajuda.
-puzle> ERROR: files i columnes han de ser valors enters
-puzle> adèu
