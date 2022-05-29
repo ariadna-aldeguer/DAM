@@ -1,5 +1,5 @@
 # DAM
-Ejercicios Ciclo Superior Desarollo de aplicaciones multiplataforma
+Apuntes, proyectos y ejercicios del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma
 
 ## 2ºDAM
 
