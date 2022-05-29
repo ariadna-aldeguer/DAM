@@ -1,0 +1,13 @@
+import java.beans.Transient;
+
+import org.junit.Test;
+import static org.junit.jupiter.api.Assertions.*;
+public class TestFBB {
+    @Test
+    public void quanEntro1Espero1(){
+        int input = 1;
+        String expected = "1";
+        String found = FBBEvaluator.eval(input);
+        assertEquals(expected, found);
+    }
+}
