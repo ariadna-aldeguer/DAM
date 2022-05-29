@@ -1,0 +1,189 @@
+﻿Mòdul - Formació i Orientació Laboral  
+Activitat  1 - UF2 NF2 (RA 1 i 3) – Avaluació de riscos i planificació de l’acció preventiva
+Treballaré a una oficina a un tercer pis amb un equip informàtic (ordinador) durant mínim 8 hores sentat a una cadira, rodejat d’altres persones amb els seus respectius ordinadors. 
+
+
+AVALUACIÓ DE RISCOS
+	Identificació del risc
+	Danys
+	Probabilitat
+	Conseqüències
+	Grau de risc
+	Prioritat
+	Acció a adoptar
+	B
+	M
+	A
+	LD
+	D
+	MD
+	T
+	TO
+	MO
+	I
+	IN
+	 
+	 
+	1. Cops amb objectes com calaixos o taules
+	Cops fluixos, blaus. 
+	 
+	X 
+	 
+	X
+	 
+	 
+	 
+	X 
+	 
+	 
+	 
+	 Baixa
+	Mantenir els llocs de treball ordenats, nets i espaiosos. 
+Calaixos amb tancament automàtic.
+
+
+	2. Trastorns muscoesqueletics derivats de una postura estática continua, seure malament o mantenir una postura alçada.   
+	 Mal d’esquena, desviació de la columna vertebral, rigidesa muscular, mala circulació. 
+	 
+	 
+	X
+	 
+	 X
+	 
+	 
+	 
+	 
+	X
+	 
+	Urgent 
+	Espai per poder moure’s amb llibertat, cadira ergonomica, programar descanso, tindre reposapeus, recolzabraç, reposacanells. Pantalla ajustable, cadira ajustable.
+	3. Trastorns musculars al canell derivat de la postura d’agafar el ratolí. 
+	 Artrosis, síndrome del túnel carpià, dolor al antebraç i al canell,  tendinitis
+	 
+	 X
+	 
+	 
+	 X
+	 
+	 
+	 
+	X 
+	 
+	 
+	Mitjana 
+	Utilizar ratolí ergonomic, recolzabraços. Organitzar descansos. 
+Informar i formar d’exercicis que ho preveuen. 
+	4. Contacte elèctric amb els cablejat dels ordinadors
+	 Cremades, tetanització, caigudes, incendi
+	 X
+	 
+	 
+	 
+	 X
+	
+
+	 
+	X 
+	 
+	 
+	 
+	Baixa 
+	Allunyament de les parts actives de les instal·lacions, tall automàtic, utilitzar materials aïllants i equips amb certificat CE. Senyalització de les zones perill. Manteniment periòdic dels equips. 
+	5. Fatiga visual derivada de la visualització de dades continua
+	 Fatiga ocular, coïssor d’ulls, mal de cap, cansanci mental
+	 
+	 
+	 X
+	X 
+	 
+	 
+	 
+	 
+	 X
+	 
+	 
+	Mitjana 
+	Disposar de suficient espai entre la pantalla i la persona, revisions periòdiques dels ulls,  utilitzar pantalles ergonòmiques, ajustar contrast i brillo adequat.  
+	6. Trastorns psicosocials derivats d’una gran càrrega de treball o mala organització de l’empresa 
+	 Ansietat, depressió, estrès, insatisfacció
+laboral, insomni, envelliment prematur,
+burnout
+
+
+	 
+	 X
+	 
+	 
+	 X
+	 
+	 
+	 
+	 X
+	 
+	 
+	 Mitjana
+	 Correcte repartiment de tasques, definició d’objectius, horaris permisius, disposar de psicòlegs, revisions mèdiques. Comunicació bidireccional.
+
+
+	7. Incendi derivat d’un curtcircuit
+	 Intoxicació, cremades, mal de cap, tos, marejos, mort. 
+	 X
+	 
+	 
+	 
+	 
+	X 
+	 
+	 
+	 X
+	 
+	 
+	Mitjana 
+	Mantenir el lloc de treball ordenat i net. Utilitzar sistemes de detecció. 
+Establir plans d’evacuació i emergència
+ 
+	8. Aixafament per bolcada de material d'oficina
+	 Talls, cops, fractures, ferides. 
+	 X
+	 
+	 
+	 X
+	 
+	 
+	 X
+	 
+	 
+	 
+	 
+	 No requereix actuació específica
+	 Si existeix la possibilitat, anclar pantalles, estanteries, etc. Establir espais de treballs espaiosos. Mantenir els espais nets i ordenats. 
+	9.   Caigudes a diferent nivell derivades de les escales entre plantes
+	Cops, esquinços, ferides, talls. Pèrdua del coneixement, contusions. 
+	 X
+	 
+	 
+	 
+	 X
+	 
+	 
+	 X
+	 
+	 
+	 
+	 Baixa
+	 Adequada construcció i manteniment de totes les instal·lacions. Escales fixes, no relliscoses, sense irregularitats, ni pendents perilloses. 
+	10. Fred al lloc de treball derivat de les mesures de covid
+	Refredats, febre, malestar, fatiga
+	 
+	 X
+	 
+	 X
+	 
+	 
+	 
+	 X
+	 
+	 
+	 
+	 Baixa
+	 Actuar sobre la font de fred, tanca finestres i portes el temps permès, disposar de material per abrigar-se, equips que irradien calor, organitzar el treball.
