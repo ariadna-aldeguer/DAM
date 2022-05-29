@@ -1,0 +1,14 @@
+<!DOCTYPE List [
+<!ELEMENT List (Item+)>
+<!ELEMENT Item (#PCDATA)>
+<!ATTLIST Item id CDATA IMPLIED>
+<!ATTLIST Item color CDATA IMPLIED> 
+<!ELEMENT Separator EMPTY>
+]>
+
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+
+<List>
+    <Item id="01" color="azul">PCDATA</Item>
+</List>
+<Separator />

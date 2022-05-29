@@ -1,0 +1,10 @@
+ <?xml version="1.0"?>
+
+ <note xsi:noNamespaceSchemaLocation="Exemple1Schema.xsd" 
+ simeinventounatributo="de ayuda"> <!-- A la raiz, soe pne donde esta el xsd si es local, sino SchemaLocation -->
+ <!-- Element: elements simples i el seu tipus: String, decimal, integer, boolean, date, time-->
+<to>Tove</to>
+<from>Jani</from>
+<heading>Reminder</heading>
+<body>Don't forget me this weekend</body>
+</note> 

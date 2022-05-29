@@ -1,0 +1,47 @@
+﻿<Computer>
+	<price>
+		<software>
+			<operative sistem installed ="linux" free="si">
+				<security pack>
+					<name>Text</name> 
+				</security pack>
+			</operative sistem>
+			<office pack installed="si">
+					<name>Text</name> 
+			</office pack>
+			<browser>
+				<name>Text</name> 
+			</browser>
+		</software>
+		<hardware>
+			<mother_board>
+				<name>Text</name>
+				<chipset_model>
+					<name>Text</name> 
+				</chipset_model>
+				<integrated_components>
+					<video_card size="200">
+						<name>Text</name> 
+					</video_card>
+					<wifi_card>
+						<name>Text</name> 
+					</wifi_card>
+					<sound_card>
+						<name>Text</name> 
+					</sound_card>
+				</integrated_components>
+				<ram_slots number="1">
+					<name>Text</name> 
+				</ram_slots>
+			</mother_board>
+			<keyboard>
+				<name>Text</name> 
+			</keyboard>
+			<screen resolution="1024">
+				<name>Text</name> 
+			</screen>
+		</hardware>
+
+
+</Computer>
+<name>Text</name> 

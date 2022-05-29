@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Asignatura Llenguatge de marques</title>  <!--obligatori-->
+        <link>https://m4ariadna.000webhostapp.com/</link> <!--obligatori-->
+        <description>Pàgina principal d&apos;entrega dels exercicis</description> <!--obligatori-->
+        
+        <!--Opcional a partir d'aquí-->
+        
+        <item> <!--Feed 1 que volem vostrar-->
+            <title>Exercici 1</title>
+            <link>https://m4ariadna.000webhostapp.com/tareas/exercici1.html</link>
+            <description>Maqueta d'una pàgina web</description>
+        </item>
+        <!--Item  2-->
+        <item>
+            <title>Exercici 2</title>
+            <link>https://m4ariadna.000webhostapp.com/tareas/1.1_Tim.html</link>
+            <description>Maqueta artcile Tim</description>
+        </item>
+        
+        <!--Item 3-->
+        <item>
+            <title>Exercici 3</title>
+            <link>https://m4ariadna.000webhostapp.com/tareas/1.2_tauleta.html</link>
+            <description>Maquetar tabla simple</description>
+        </item>
+
+        <!--Item 4-->
+        <item>
+            <title>Exercici 4</title>
+            <link>https://m4ariadna.000webhostapp.com/tareas/resume.html</link>
+            <description>El meu Curriculum Vitae</description>
+        </item>
+
+         <!--Item 5-->
+        <item>
+            <title>Exercici 5</title>
+            <link>https://m4ariadna.000webhostapp.com/tareas/css.html</link>
+            <description>Aplicant CSS</description>
+        </item>
+
+         <!--Item 6-->
+        <item>
+            <title>Exercici 6</title>
+            <link>https://m4ariadna.000webhostapp.com/tareas/ejercicios_xml.html</link>
+            <description>Aplicant XML</description>
+        </item>
+        
+         <!--Item 7-->
+        <item>
+            <title>Exercici 7</title>
+            <link>https://m4ariadna.000webhostapp.com/tareas/DTD/Esquema_DTD.html</link>
+            <description>Aplicant XML</description>
+        </item>
+
+         <!--Item 8-->
+        <item>
+            <title>Exercici 8</title>
+            <link>https://m4ariadna.000webhostapp.com/tareas/Schema/Schema.html</link>
+            <description>Aplicant XML</description>
+        </item>
+
+    </channel>
+</rss>

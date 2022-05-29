@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<llibreria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ex3.xsd">
+    <llibre id="AER" available="true">
+        <isbn>1254</isbn>
+        <titol lang="ES">PCDATA</titol>
+        <autor id="ERO">
+            <nom>PCDATA</nom>
+            <naixement>1995-05-05</naixement>
+            <defuncio>2010-08-12</defuncio>
+        </autor>
+        <personatge id="QWE">
+            <nom>PCDATA</nom>
+            <naixement>1995-05-05</naixement>
+            <qualificacio>Nota: 9</qualificacio>
+        </personatge>
+    </llibre>
+    <llibre id="AER" available="true">
+        <isbn>1254</isbn>
+        <titol lang="ES">PCDATA</titol>
+        <autor id="ERO">
+            <nom>PCDATA</nom>
+            <naixement>1995-05-05</naixement>
+            <defuncio>2010-08-12</defuncio>
+        </autor>
+        <personatge id="QWE">
+            <nom>PCDATA</nom>
+            <naixement>1995-05-05</naixement>
+            <qualificacio>Nota: 9</qualificacio>
+        </personatge>
+    </llibre>
+</llibreria>

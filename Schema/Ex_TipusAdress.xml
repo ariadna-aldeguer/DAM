@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ex_TipusAdress.xsd">
+  <alumne dni="41236987">
+    <nom>Ariadna Aldeguer</nom>
+    <adress>
+      <carrer>Carrer Industria</carrer>
+      <nom>Ariadna Aldeuger</nom>
+      <ciutat>Barcelona</ciutat>
+      <província>Barcelona</província>
+    </adress>
+    <tel>936401010</tel>
+  </alumne>
+  <alumne dni="41236987">
+    <nom>Ariadna Aldeguer</nom>
+    <adress>
+      <carrer>Carrer Industria</carrer>
+      <nom>Ariadna Aldeuger</nom>
+      <ciutat>Barcelona</ciutat>
+      <província>Barcelona</província>
+    </adress>
+    <tel>936401010</tel>
+  </alumne>
+  <alumne dni="41236987">
+    <nom>Ariadna Aldeguer</nom>
+    <adress>
+      <carrer>Carrer Industria</carrer>
+      <nom>Ariadna Aldeuger</nom>
+      <ciutat>Barcelona</ciutat>
+      <província>Barcelona</província>
+    </adress>
+    <tel>936401010</tel>
+  </alumne>
+</alumnes>

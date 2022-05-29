@@ -1,0 +1,26 @@
+<Cinema>
+    <Casting ord="4">
+        <movie id="10003">
+            <title>"Cocodrile" Dunde II</title>
+            <year>1988</year>
+            <director>38</director>
+            <budget>158</budget>
+            <gross>2396</gross>
+        </movie>
+        <actor id="20">
+            <name>Paul Hogan</name>
+        </actor>
+    </Casting>
+    <Casting or="1">
+        <movie id="10004">
+            <title>Til There Was You</title>
+            <year>1997</year>
+            <director>49</director>
+            <budget>100</budget>
+            <gross/>
+        </movie>
+        <actor id="50">
+            <name>Jeanne Tripplehorn</name>
+        </actor>
+    </Casting>    
+</Cinema>

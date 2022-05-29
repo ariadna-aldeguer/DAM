@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nota xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ej1_nota.xsd">
+  <per_a>Pere</per_a>
+  <de>Laura</de>
+  <assumpte>Recordatori</assumpte>
+  <contingut>A les 7:00 pm en la porta del teatre</contingut>
+</nota>

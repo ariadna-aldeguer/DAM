@@ -1,0 +1,31 @@
+<!-- sudo mysqldump - -xml nombre_Database [tabla]-->
+
+<?xml version="1.0"?>
+<mysqldump xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<database name="compras">
+	<table_structure name="producte">
+		<field Field="codi" Type="int" Null="NO" Key="PRI" Extra="" Comment="" />
+		<field Field="nom" Type="varchar(20)" Null="YES" Key="" Extra="" Comment="" />
+		<field Field="preu" Type="float" Null="YES" Key="" Extra="" Comment="" />
+		<key Table="producte" Non_unique="0" Key_name="PRIMARY" Seq_in_index="1" Column_name="codi" Collation="A" Cardinality="2" Null="" Index_type="BTREE" Comment="" Index_comment="" Visible="YES" />
+		<options Name="producte" Engine="InnoDB" Version="10" Row_format="Dynamic" Rows="2" Avg_row_length="8192" Data_length="16384" Max_data_length="0" Index_length="0" Data_free="0" Create_time="2021-02-16 16:15:19" Collation="utf8mb4_0900_ai_ci" Create_options="" Comment="" />
+	</table_structure>
+	<table_data name="producte">
+	<row>
+		<field name="codi">1</field>
+		<field name="nom">pizza hawaiana</field>
+		<field name="preu">10</field>
+	</row>
+	<row>
+		<field name="codi">2</field>
+		<field name="nom">pizza barbacoa</field>
+		<field name="preu">12</field>
+	</row>
+	<row>
+		<field name="codi">3</field>
+		<field name="nom">pizza sicilia</field>
+		<field name="preu">13</field>
+	</row>
+	</table_data>
+</database>
+</mysqldump>

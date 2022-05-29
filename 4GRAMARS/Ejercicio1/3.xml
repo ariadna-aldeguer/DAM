@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+Pàgina 2 de 8
+M4: Llenguatge de marques i sistemes de gestió d’informació
+UF1: Programació amb XML
+Curs 2020/2021
+<!DOCTYPE flowers [
+ <!ELEMENT flowers (flower+)>
+ <!ELEMENT flower (#PCDATA)>
+]>
+<flowers>
+</flowers>

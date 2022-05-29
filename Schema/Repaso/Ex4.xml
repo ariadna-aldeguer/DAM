@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ex4.xsd">
+    <company id="01">
+        <nom>Jordi Sanz</nom>
+        <edat adult="Sí">33</edat>
+        <correu>j.sanchez@gmail.com</correu>
+        <residencia>Barcelona</residencia>
+        <ubicacio aula="23" planta="2">davant</ubicacio>
+    </company>
+    <company id="02">
+        <nom>Pep Sanchez</nom>
+        <correu>p.sanchez@gmail.com</correu>
+        <residencia>Badalona</residencia>
+        <ubicacio aula="23" planta="segona">dreta</ubicacio>
+        <edat adult="Sí">23</edat>
+    </company>
+    <company id="03">
+        <nom>Miquel Mateu</nom>
+        <edat>37</edat>
+        <ubicacio aula="23" planta="2">darrera</ubicacio>
+        <correu>m.mateu@hotmail.com</correu>
+        <residencia>Cerdanyola</residencia>
+    </company>
+    <company id="04">
+        <nom>Mireia Sanchis</nom>
+        <edat adult="Sí">33</edat>
+        <correu>j.sanchez@gmail.com</correu>
+        <residencia>Sabadell</residencia>
+        <ubicacio aula="23" planta="2">esquerra</ubicacio>
+    </company>
+</agenda>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<esportistes>
+<esportista>
+<nom>Jesse Owens</nom>
+<esport>Atletisme</esport>
+</esportista>
+<esportista>
+<nom>Mark Spitz</nom>
+<esport>Natació</esport>
+</esportista>
+</esportistes>

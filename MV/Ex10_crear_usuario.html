@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+	<title>Ex10_crear_usuario</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">CreateUser</td></tr>
+</thead>
+<tbody>
+<tr><td>open</td><td>http://3.215.182.5:8069/web/login<datalist><option>http://18.232.53.64:8069/web/login</option><option>http://3.234.219.3:8069/web/login</option><option>http://3.215.182.5:8069/web/login</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//input[@id='login']<datalist><option>//input[@id='login']</option><option>id=login</option><option>name=login</option><option>//div[@id='wrapwrap']/main/div/form/div/input</option><option>//div/input</option><option>css=#login</option></datalist></td><td></td>
+</tr>
+<tr><td>type</td><td>//input[@id='login']<datalist><option>//input[@id='login']</option><option>id=login</option><option>name=login</option><option>//div[@id='wrapwrap']/main/div/form/div/input</option><option>//div/input</option><option>css=#login</option></datalist></td><td>cf20ariadna.aldeguer@iesjoandaustria.org</td>
+</tr>
+<tr><td>click</td><td>//input[@id='password']<datalist><option>//input[@id='password']</option></datalist></td><td></td>
+</tr>
+<tr><td>type</td><td>//input[@id='password']<datalist><option>//input[@id='password']</option><option>id=password</option><option>name=password</option><option>//div[@id='wrapwrap']/main/div/form/div[2]/input</option><option>//div[2]/input</option><option>css=#password</option></datalist></td><td>admin</td>
+</tr>
+<tr><td>click</td><td>//div[@id='wrapwrap']/main/div<datalist><option>//div[@id='wrapwrap']/main/div</option><option>//main/div</option><option>css=div.oe_website_login_container</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//button[@type='submit']<datalist><option>//button[@type='submit']</option><option>//div[@id='wrapwrap']/main/div/form/div[3]/button</option><option>//div[3]/button</option><option>css=button.btn.btn-primary.btn-block</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//a[contains(@href, '#')]<datalist><option>//a[contains(@href, '#')]</option><option>//a</option><option>css=a.full</option></datalist></td><td></td>
+</tr>
+<tr><td>pause</td><td><datalist><option></option></datalist></td><td>2000</td>
+</tr>
+<tr><td>click</td><td>//a[@data-menu-xmlid='hr.menu_hr_root']<datalist><option>link=Employees</option><option>//a[contains(text(),'Employees')]</option><option>//a[contains(@href, '#menu_id=259')]</option><option>//a[9]</option><option>//a[@data-menu-xmlid='hr.menu_hr_root']</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//label/i<datalist><option>//label/i</option><option>css=i.fa.fa-fw.o_toggle_fold.fa-caret-left</option></datalist></td><td></td>
+</tr>
+<tr><td>assertElementPresent</td><td>//div[@class="o_control_panel"]<datalist><option>//div[@class="o_control_panel"]</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//li[@data-id="1"]//label<datalist><option>//label/i</option><option>css=i.fa.fa-fw.o_toggle_fold.fa-caret-left</option><option>//li[@data-id="1"]//label</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//label[@for='M4-UF3']<datalist><option>//li[2]/ul/li/header/label/span</option><option>css=header.list-group-item-action.active &gt; label.o_search_panel_label.mb0 &gt; span.o_search_panel_label_title</option><option>//label[@for='M4-UF3']</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//button[@class='btn btn-primary o-kanban-button-new']<datalist><option>xpath=(//button[@type='button'])[7]</option><option>//div[2]/div/div/div/button</option><option>css=button.btn.btn-primary.o-kanban-button-new</option><option>//button[@class='btn btn-primary o-kanban-button-new']</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//input[@class='o_field_char o_field_widget o_input o_required_modifier']<datalist><option>id=o_field_input_96</option><option>name=name</option><option>//input[@id='o_field_input_96']</option><option>//h1/input</option><option>css=#o_field_input_96</option><option>//input[@class='o_field_char o_field_widget o_input o_required_modifier']</option></datalist></td><td></td>
+</tr>
+<tr><td>type</td><td>//input[@class='o_field_char o_field_widget o_input o_required_modifier']<datalist><option>id=o_field_input_96</option><option>name=name</option><option>//input[@id='o_field_input_96']</option><option>//h1/input</option><option>css=#o_field_input_96</option><option>//input[@class='o_field_char o_field_widget o_input o_required_modifier']</option></datalist></td><td>Ariadna</td>
+</tr>
+<tr><td>click</td><td>//h1<datalist><option>//h1</option><option>css=h1</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//button[@class='btn btn-primary o_form_button_save']<datalist><option>xpath=(//button[@type='button'])[9]</option><option>//div[2]/div/div/div/div[2]/button</option><option>css=button.btn.btn-primary.o_form_button_save</option><option>//button[@class='btn btn-primary o_form_button_save']</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//h1<datalist><option>//h1</option><option>css=h1</option></datalist></td><td></td>
+</tr>
+</tbody></table>
+</body>
+</html>

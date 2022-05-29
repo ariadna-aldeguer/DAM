@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+	<title>Examen_ex2</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Crear Nota</td></tr>
+</thead>
+<tbody>
+<tr><td>open</td><td>http://3.238.236.45:8069/web/login<datalist><option>http://3.215.182.5:8069/web/login</option><option>http://3.238.236.45:8069/web/login</option></datalist></td><td></td>
+</tr>
+<tr><td>pause</td><td><datalist><option></option></datalist></td><td>2000</td>
+</tr>
+<tr><td>assertElementPresent</td><td>//input[@id='login']<datalist><option>//input[@id='login']</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//input[@id='login']<datalist><option>//input[@id='login']</option></datalist></td><td></td>
+</tr>
+<tr><td>type</td><td>//input[@id='login']<datalist><option>//input[@id='login']</option></datalist></td><td>cf20ariadna.aldeguer@iesjoandaustria.org</td>
+</tr>
+<tr><td>click</td><td>//input[@id='password']<datalist><option>//input[@id='password']</option></datalist></td><td></td>
+</tr>
+<tr><td>type</td><td>//input[@id='password']<datalist><option>//input[@id='password']</option><option>input[@id='password']</option></datalist></td><td>admin</td>
+</tr>
+<tr><td>click</td><td>//div[@id='wrapwrap']/main/div<datalist><option>//div[@id='wrapwrap']/main/div</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//button[@type='submit']<datalist><option>//button[@type='submit']</option></datalist></td><td></td>
+</tr>
+<tr><td>pause</td><td><datalist><option></option></datalist></td><td>3500</td>
+</tr>
+<tr><td>assertElementPresent</td><td>//a[@class='o_menu_brand']<datalist><option>//a[@class='o_menu_brand']</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//i[@class='fa fa-th-large']<datalist><option>//i</option><option>css=i.fa.fa-th-large</option><option>//i[@class='fa fa-th-large']</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//a[@data-menu-xmlid='note.menu_note_notes']<datalist><option>link=Notes</option><option>//a[contains(text(),'Notes')]</option><option>//a[contains(@href, '#menu_id=300')]</option><option>//a[3]</option><option>//a[@data-menu-xmlid='note.menu_note_notes']</option></datalist></td><td></td>
+</tr>
+<tr><td>pause</td><td><datalist><option></option></datalist></td><td>3000</td>
+</tr>
+<tr><td>assertElementPresent</td><td>//ol[@class='breadcrumb']<datalist><option>//a[@class='o_menu_brand']</option><option>//ol[@class='breadcrumb']</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//button[@class='btn btn-primary o-kanban-button-new']<datalist><option>xpath=(//button[@type='button'])[7]</option><option>//div[2]/div/div/div/button</option><option>css=button.btn.btn-primary.o-kanban-button-new</option><option>//button[@class='btn btn-primary o-kanban-button-new']</option></datalist></td><td></td>
+</tr>
+<tr><td>pause</td><td><datalist><option></option></datalist></td><td>4000</td>
+</tr>
+<tr><td>assertElementPresent</td><td>//div[@class='note-editable panel-body']<datalist><option>//ol[@class='breadcrumb']</option><option>//a[@class='o_menu_brand']</option><option>//div[@class='note-editable panel-body']</option></datalist></td><td></td>
+</tr>
+<tr><td>click</td><td>//div[@class='note-editable panel-body']<datalist><option>//div[4]/div[3]</option><option>css=div.note-editable.panel-body</option><option>//div[@class='note-editable panel-body']</option></datalist></td><td></td>
+</tr>
+<tr><td>editContent</td><td>//div[@class='note-editable panel-body']<datalist><option>//div[4]/div[3]</option><option>css=div.note-editable.panel-body</option><option>//div[@class='note-editable panel-body']</option></datalist></td><td>&lt;p&gt;Qualsevol text&lt;/p&gt;</td>
+</tr>
+<tr><td>click</td><td>//button[@class='btn btn-primary o_form_button_save']<datalist><option>xpath=(//button[@type='button'])[9]</option><option>//div[2]/div/div/div/div[2]/button</option><option>css=button.btn.btn-primary.o_form_button_save</option><option>//button[@class='btn btn-primary o_form_button_save']</option></datalist></td><td></td>
+</tr>
+<tr><td>pause</td><td><datalist><option></option></datalist></td><td>1000</td>
+</tr>
+<tr><td>click</td><td>//li[@class='breadcrumb-item']<datalist><option>xpath=(//a[contains(text(),'Notes')])[3]</option><option>xpath=(//a[contains(@href, '#')])[23]</option><option>//ol/li/a</option><option>css=li.breadcrumb-item &gt; a</option><option>//li[@class='breadcrumb-item']</option></datalist></td><td></td>
+</tr>
+<tr><td>pause</td><td><datalist><option></option></datalist></td><td>3000</td>
+</tr>
+<tr><td>assertElementPresent</td><td>//div[@aria-labelledby='kanban_header_1']//span[contains(., 'Qualsevol text')]<datalist><option>//div[@aria-labelledby='kanban_header_1']//span[contains(., 'Qualsevol text')]</option></datalist></td><td></td>
+</tr>
+</tbody></table>
+</body>
+</html>

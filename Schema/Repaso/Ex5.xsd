@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="marca" type="xs:string"/>
+    <xs:element name="model" type="xs:string"/>
+    <xs:element name="kilometres" type="xs:integer"/>
+    <xs:element name="diesel" type="xs:string"/>
+    <xs:element name="gasolina">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="super" type="xs:string" minOccurs="0"/>
+                <xs:element name="sense_plom" type="xs:integer" minOccurs="0"/>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+    <xs:attribute name="dni_treb" type="xs:string"/>
+    <xs:attribute name="matricula" type="xs:string"/>
+    <xs:attribute name="cilindrada" type="xs:integer"/>
+    <xs:complexType name="Tbenzina">
+        <xs:choice>
+            <xs:element name="diesel" type="xs:string"/>
+            <xs:element ref="gasolina"/>
+            <xs:element name="hibrid" type="xs:string"/>
+        </xs:choice>
+    </xs:complexType>
+    <xs:element name="cotxe">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="marca"/>
+                <xs:element ref="model"/>
+                <xs:element ref="kilometres"/>
+                <xs:element name="carburant" type="Tbenzina"/>
+            </xs:sequence>
+            <xs:attribute ref="matricula"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="moto">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="marca"/>
+                <xs:element ref="model"/>
+                <xs:element ref="kilometres"/>
+                <xs:element ref="gasolina"/>
+            </xs:sequence>
+            <xs:attribute ref="matricula"/>
+            <xs:attribute ref="cilindrada"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="bici">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="marca"/>
+                <xs:element ref="model"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="vehicle_empresa">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="cotxe"/>
+                <xs:element ref="moto"/>
+                <xs:element ref="bici"/>
+            </xs:sequence>
+            <xs:attribute ref="dni_treb"/>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

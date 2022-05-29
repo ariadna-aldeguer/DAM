@@ -1,0 +1,57 @@
+#titol{
+    color: darkcyan;
+}
+strong{
+    color: red;
+}
+span.destacat{
+    color:gold;
+}
+#subtitol{
+    color:blue;
+}
+a{
+    color:red;
+}
+em{
+    color:blue;
+}
+span.especial{
+    color:purple;
+}
+caption{
+    color:blue;
+}
+th.especial{
+    color:gold;
+}
+table{
+    color: green;
+}
+th{
+    color:red;
+}
+td strong{
+    color:gold;
+}
+#adicional{
+    color:darkkhaki;
+}
+#especial{
+    color:fuchsia;
+}
+p a{
+    color: green;
+}
+table{
+    border: black 1px solid;
+}
+td{
+    border: black 1px solid;
+}
+tr{
+    border: black 1px solid;
+}
+th{
+    border: black 1px solid;
+}
