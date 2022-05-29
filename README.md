@@ -1,7 +1,7 @@
 # DAM
 Apuntes, proyectos y ejercicios del Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma
 
-## 2ºDAM
+## 2º Curso DAM
 
 ### M6: Accés a dades (Branch dam2-m6-acces-a-dades)
   - UF1: Persistència en fitxers
@@ -67,7 +67,7 @@ Apuntes, proyectos y ejercicios del Ciclo Superior de Desarrollo de Aplicaciones
 
 ### Taller TDD (Branch taller-test-driven-development)
 
-## 1ºDAM
+## 1º Curso DAM
 
 ### M1: Sistemes informàtics (Branch dam1-m1-sistemes-informatics)
   - Scripts bash
@@ -115,4 +115,4 @@ Apuntes, proyectos y ejercicios del Ciclo Superior de Desarrollo de Aplicaciones
 ### Empresa e Iniciativa Emprendedora (Branch dam1-empresa-iniciativa-emprendedora)
   - Plà d'empresa
   
-### Formació i Orientació Laboral (Branch git dam1-formacio-orientacio-laboral)
+### Formació i Orientació Laboral (Branch dam1-formacio-orientacio-laboral)
