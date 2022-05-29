@@ -58,3 +58,50 @@ Ejercicios Ciclo Superior Desarollo de aplicaciones multiplataforma
 - UF3: Desenvolupament de jocs per a dispositius mòbils.
   - Unity
     - Platform Game
+### M15: Big Data
+  - Examen
+  - Introducció Big Data
+  - Spark
+
+## 1ºDAM
+
+### M1: Sistemes informàtics
+  - Scripts bash
+  - Expressions regulars
+  - Sistemes d'arxius
+  - Sistemes operatius
+  - Codificació
+  - Portes Lógiques
+  - Xarxes
+  - Ordinadors
+  - Administració d'usuaris
+  - Administració remota
+
+### M2: Bases de dades
+  - UML - Introducció a les bases de dades
+  - Entitat-Relació 
+  - Llenguatge SQL
+  - Extensió procecidemental
+  - Assegurament
+  - BDD orientada a Objectes
+  - Oracle
+  
+### M3: Programació
+### M4: Llenguatge de marques
+  - CSS
+  - XML
+  - HTML
+  - XPATH
+  - Automatizació
+  - Conversions
+  - Syndications
+  - Odoo
+  
+### M5: Entorns de programació
+  - Projectes POO
+### M10: Sistemes de gestió empresarial
+  - ERPs
+  - Odoo
+### Empresa e Iniciativa Emprendedora
+  - Plà d'empresa
+### Formació i Orientació Laboral
