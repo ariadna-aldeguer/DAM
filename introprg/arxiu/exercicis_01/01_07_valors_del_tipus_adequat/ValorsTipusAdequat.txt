@@ -1,0 +1,7 @@
+int tallaSabates = 38; // double si es amb coma. string si es lletra
+String dataAniversari = "12/05/1995"; 
+String nom = "Ari";
+String colorEscriptori = "Vermell";
+boolean gratLlimona = true;
+String lletraCançoPreferida = "Jugamos a ser dos gatos que no se quieren dormir";
+String culturaQueMarca = "La Prostitución de Beatriz Gimeno" ;

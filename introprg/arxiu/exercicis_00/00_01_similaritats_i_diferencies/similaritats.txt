@@ -1,0 +1,26 @@
+1. Què fa el programa?
+
+El programa calcula el radi d'un cercle.
+
+
+2. Elements comuns
+
+Tenen en comú les variables, totes retornen escrit, calculen el radi.
+
+
+3. Entrada/Sortida
+
+En pseudocodi, l’entrada l’obté amb {llegeix radi} i el resultat el mostra amb {escriu "L'àrea és ", àrea"}
+Versió C, l'entrada l'obté amb {scanf("%f", &radi);} i el resultat el mostra amb {printf("L'àrea és %f\n", area)}
+Python, l'entrada l'obté amb ?? {linia = input} i el resultat el mostra amb {print(f"L'àrea és {area}")}
+Java, l'entrada l'obté amb {String linia = reader.readLine()}  i el resultat el mostra amb {  System.out.println("L'àrea és " + area);} 
+Kotlin, l'entrada l'obté amb { val linia = reader.readLine()} i el resultat el mostra amb {    println("L'àrea és $area")}
+
+4. Variables
+
+Trobem el radi i el pi.
+
+
+5. Preferència
+
+No puc tindre una preferència si no els he provat, sembla més simple el Python, més explicit el Java.

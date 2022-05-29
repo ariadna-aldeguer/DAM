@@ -1,0 +1,36 @@
+##################
+Constructors
+##################
+
+Definició
+=========
+El constructor és cridat per realitzar la creació d'una nova instància d'una classe. Aquest es anomenat igual que la classe. 
+El constructor rep els valors amb els que inicialitzar les propietats. 
+Podem inicialitzar els valors dels camps de les instàncies de l'objecte directament a la línia de la declaració, com dins d'un constructor. 
+
+Tipus
+=========
+Hi ha dos tipus de constructors, el constructor per defecte i el constructor específic. 
+El constructor per defecte no rep cap paràmetre, inicialitza la instància amb els valors que nosaltres decidim que serán els per defecte. 
+El constructor específic rep els valors (paràmetres) amb els que inicialitzar l'objecte. 
+Podem tenir tants constructors com volguem. 
+
+##################
+This
+##################
+
+Tots els móduls que no siguin static, tenen la referencia this. (Al objecte)
+El this es el paràmetre que recull la instància amb la que cridem al objecte. 
+This.vides. (ex: les vides de la instancia)
+
+##################
+toString
+##################
+Si volem mostrar l'objecte renat: System.out.println(renat). Java ha creat el mètode toString().
+El mètode toString() permet definir quina representació té la instància quan calgui convertir-la a String.
+Per assegurar-nos que ho hem escrit bé, afegim @Override davant de la definició. 
+Hem de definir toString si volem que la sortida sigui d'una manera específica.
+@Override
+public String toString() { return String.format("Vides: %d", vides); }
+
+

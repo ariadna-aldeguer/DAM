@@ -1,0 +1,8 @@
+true && A, A --> TRUE 
+A && A, A --> TRUE
+A || false, A --> TRUE
+A || A, A   --> TRUE
+A && false, false   --> TRUE
+A || true, true --> TRUE
+! (A && B), !A || !B  --> TRUE (REPRESENTAR LA TABLA)
+! (A || B), !A && !B --> TRUE (REPRESENTAR LA TABLA)

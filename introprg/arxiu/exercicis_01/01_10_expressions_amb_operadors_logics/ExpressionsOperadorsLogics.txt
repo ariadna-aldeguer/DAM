@@ -1,0 +1,48 @@
+la Clara és més jove que tu
+
+edatClara < mevaEdat
+
+la Clara i el Marc són més joves que tu
+
+edatClara && edatMarc < mevaEdat
+
+la Clara és més jove que tu i tu ets més jove que el Marc
+
+edatClara < mevaEdat && mevaEdat < edatMarc 
+
+la Clara no és més jove que el Marc
+
+edatClara >= edatMarc
+
+boolean claraMesJoveQueMarc = edatClara < edatMarc
+!claraMesJoveQueMarc
+
+no és cert que el Marc sigui més jove que la Clara
+
+edatMarc >= edatClara
+claraMesJoveQueMarc
+
+boolean MarcMesJoveQueClara= edat Clara > edatMarc 
+!MarcMesJoveQueClara
+
+Ni el Marc és més jove que la Clara ni tu ets més jove que el Marc
+
+edatMarc >= edatClara && mevaEdat >= edatMarc
+
+!(edatMarc < edatClara) && !(edatMeva < edatMarc)
+
+Tu ets més gran que la Clara i el Marc junts o bé la Clara i el Marc tenen la mateixa edat
+
+boolean edatClaraMarc = edatClara + edatMarc
+mevaEdat > edatClaraMarc || edatClara == edatMarc 
+
+El número de dones al congrés es menor que el 70% dels homes.
+
+donesCongres < 0.70(homesCongres)
+
+No és cert que el número de dones al congres sigui menor que el 70% d'homes pero si és cert que el número de dones ministres es menor al 70% d'homes al congrés.
+
+!(donesCongres < 0.70(homesCongres)) && donesMinistresCongres < 0.70*homesCongres
+
+ 
+

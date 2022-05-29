@@ -1,0 +1,43 @@
+##################
+Classes i Objectes
+##################
+
+Classe
+=================
+
+Una classe és la descripció d'un objecte. Cada vegada que creem un objecte, creem la seva instància (Fa referencia al index de memoria del objecte). 
+
+Instancia
+=================
+
+Quan instanciem un objecte es semblant a inicialitzar una variable. GatRenat renat = new..  int vides = ....
+A les variables declarem el tipus "int" i als objectes declarem la clase "GatRenat".
+
+Propietats
+=================
+
+Un objecte pot tenir propietats/atributs/camps. Als valors que tenen les propietats d’una instància en un determinat moment se li anomena estat de la instància. 
+    - Private: protegeixen els valors que es poden possar a la propietat, només la classe pot accedir
+    - Públic: tothom pot accedir
+ 
+Getters i Setters
+=================
+
+Si la propietat es privada, un pograma exter no podra accedir amb renat.vides. Es necessitaran getters i setters. 
+Als mòduls getVides() i setVides() en orientació a objectes els anomenem accessors doncs ens permeten accedir a propietats privades. 
+    - Si només tinguessim getter, sería inmutable, no podrían variar la propietat.
+    - Si només tinguessim setter, podriem modificar-ho però no podriem veure quin valor té.
+Els Getters i setters -> no tenen static (public setVides)
+
+Mètodes
+================= 
+Si volem saber si el gat Renat està estirat, ens toca fer la següent condició: renat.getPosicio().equals("estirat").
+Millor: if (renat.estaEstirat())
+Normalment ens referim als mòduls definits a una classe: en diem mètodes o també serveis. Són els mètodes amb els que ens podem comunicar amb la instància.
+
+Membres
+================= 
+Un membre d’una classe pot ser tan una propietat com un mètode.
+ 
+Java ens ofereix la possibilitat de definir mètodes amb el mateix nom, sempre i quant els paràmetres siguin diferents. A aquest fenomen se li sol conèixer com sobrecàrrega (overload).
+
