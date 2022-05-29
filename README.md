@@ -87,6 +87,10 @@ Ejercicios Ciclo Superior Desarollo de aplicaciones multiplataforma
   - Oracle
   
 ### M3: Programació
+  - Introducció al Java
+  - Projecte botiga
+  - Joc penjat
+
 ### M4: Llenguatge de marques
   - CSS
   - XML
