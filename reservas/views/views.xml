@@ -1,0 +1,82 @@
+https://www.youtube.com/watch?v=vq1A8NUsjT0 min24
+
+<odoo>
+  <data>
+    <!-- VISTA DE HABITACION TREE-->
+
+    <record model="ir.ui.view" id="reservas_ariadna.room_list_view">
+      <field name="name">reservas_ariadna.room.view.tree</field>
+      <field name="model">reservas_ariadna.room</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="num_hab"/>
+          <field name="pis"/>
+          <field name="tv"/>
+          <field name="max_pax"/>
+        </tree>
+      </field>
+    </record>
+
+    <!-- VISTA DE CLIENTE TREE-->
+    <record model="ir.ui.view" id="reservas_ariadna.client_list_view">
+      <field name="name">reservas_ariadna.client.view.tree</field>
+      <field name="model">reservas_ariadna.client</field>
+      <field name="arch" type="xml">
+        <tree>
+          <field name="nom"/>
+          <field name="DNI"/>
+          <field name="edat"/>
+          <field name="naix"/>
+        </tree>
+      </field>
+    </record>
+
+    <!-- actions opening views on models -->
+   <record model="ir.actions.act_window" id="reservas_ariadna.room_action_window">
+      <field name="name">Habitacion</field>
+      <field name="res_model">reservas_ariadna.room</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+    <record model="ir.actions.act_window" id="reservas_ariadna.client_action_window">
+      <field name="name">Cliente</field>
+      <field name="res_model">reservas_ariadna.client</field>
+      <field name="view_mode">tree,form</field>
+    </record>
+
+
+    <!-- server action to the one above -->
+<!--
+    <record model="ir.actions.server" id="/home/ari/odoo-dev-14/addons/reservas_ariadna.action_server">
+      <field name="name">/home/ari/odoo-dev-14/addons/reservas_ariadna server</field>
+      <field name="model_id" ref="model_/home/ari/odoo-dev-14/addons/reservas_ariadna_/home/ari/odoo-dev-14/addons/reservas_ariadna"/>
+      <field name="state">code</field>
+      <field name="code">
+        action = {
+          "type": "ir.actions.act_window",
+          "view_mode": "tree,form",
+          "res_model": model._name,
+        }
+        </field>
+    </record>
+-->
+
+
+
+    <!-- Top menu item -->
+
+    <menuitem name="reservas_ariadna" id="reservas_ariadna.menu_root"/>
+
+    <!-- menu categories -->
+
+    <menuitem name="Habitacion" id="reservas_ariadna.menu_room" parent="reservas_ariadna.menu_root" action="reservas_ariadna.room_action_window"/>
+    <menuitem name="Clientes" id="reservas_ariadna.menu_client" parent="reservas_ariadna.menu_root" action="reservas_ariadna.client_action_window"/>
+
+    <!-- actions -->
+<!--
+    <menuitem name="List" id="reservas_ariadna.menu_1_list" parent="reservas_ariadna.menu_room"
+              action="reservas_ariadna.action_window"/>
+    <menuitem name="Server to list" id="reservas_ariadna.menu_2_list" parent="reservas_ariadna.menu_client"
+              action="reservas_ariadna.action_server"/>
+ -->
+    </data>
+</odoo>

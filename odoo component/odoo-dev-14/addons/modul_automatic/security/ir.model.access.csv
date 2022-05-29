@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_/home/alumne/odoo-dev/addons/modul_automatic_/home/alumne/odoo-dev/addons/modul_automatic,/home/alumne/odoo-dev/addons/modul_automatic./home/alumne/odoo-dev/addons/modul_automatic,model_/home/alumne/odoo-dev/addons/modul_automatic_/home/alumne/odoo-dev/addons/modul_automatic,base.group_user,1,1,1,1
