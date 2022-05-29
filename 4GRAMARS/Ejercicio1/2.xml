@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE colors [
- <!ELEMENT colors (color*)>
- <!ELEMENT colors (#PCDATA)>
-]>
-<colors>
- <color>dark blue</color>
- <color>yellow</color>
-</colors>
